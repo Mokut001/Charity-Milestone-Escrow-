@@ -1,1 +1,1 @@
-# Charity-Milestone-Escrow-
+This DApp solves the 'Trust Issue' in charity. Funds are released only when a trusted Auditor signs off on a milestone.
